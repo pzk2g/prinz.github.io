@@ -51,6 +51,9 @@ li {
   list-style: none;
 }
 
+code{
+  font-style: italic;
+}
 .section-link {
   float: left;
   display: block;
