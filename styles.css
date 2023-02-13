@@ -86,7 +86,7 @@ h2{
 }
 #statut{
   color: rgb(252, 93, 93);
-  padding-top:14em; 
+  padding-top:20em; 
 }
 p{
   color: white;
@@ -135,5 +135,8 @@ footer{
   }
   #ok{
     font-size: 15px
+  }
+  #statut{
+  padding-top:13em; 
   }
 }
