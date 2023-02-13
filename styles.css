@@ -84,6 +84,10 @@ h2{
   color: green;
   font-size: 50px;
 }
+#statut{
+  color: rgb(252, 93, 93);
+  padding-top:14em; 
+}
 p{
   color: white;
   font-size: 15pt;
