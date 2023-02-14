@@ -21,13 +21,12 @@ body {
   background-color: rgb(187, 210, 225);
   text-align: center;
   font: italic small-caps bold 50px cursive;
-  padding: 250px 0 0 0;
+  padding: 250px 0 0 0;  
   height: 100vh;
 }
 
 #name{
   color: black;
-  font-size: 30px;
 }
 
 .navbar {
@@ -51,9 +50,8 @@ nav > ul {
 li {
   list-style: none;
 }
-
 code{
-  font-style: italic;
+  color: rgb(245, 245, 220);
 }
 .section-link {
   float: left;
@@ -129,14 +127,7 @@ footer{
   flex-direction: column;
   justify-content: space-around;
   }
-    #welcome-section{
-  font: italic small-caps bold 23px cursive;
-  padding: 500px 0 0 0;  
-  }
-  #ok{
-    font-size: 15px
-  }
   #statut{
-  padding-top:14vh; 
+    padding-top: 14vh
   }
 }
